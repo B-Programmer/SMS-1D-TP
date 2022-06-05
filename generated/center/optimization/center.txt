@@ -1,0 +1,180 @@
+Pattern 1 Text is: ALTERUS
+The centre list is: E
+The centre list is: 69
+b'The value of \xce\xb2 is: 8'
+Pattern 2 Text is: ER'root
+The centre list is: r
+The centre list is: 114
+b'The value of \xce\xb2 is: 8'
+Pattern 3 Text is: '@'loca
+The centre list is: l
+The centre list is: 108
+b'The value of \xce\xb2 is: 8'
+Pattern 4 Text is: lhost'I
+The centre list is: s
+The centre list is: 115
+b'The value of \xce\xb2 is: 8'
+Pattern 5 Text is: DENTIFI
+The centre list is: T
+The centre list is: 84
+b'The value of \xce\xb2 is: 8'
+Pattern 6 Text is: EDBY'';
+The centre list is: Y
+The centre list is: 89
+b'The value of \xce\xb2 is: 8'
+Pattern 1 Text is: ALTERUSER
+The centre list is: R
+The centre list is: 82
+b'The value of \xce\xb2 is: 8'
+Pattern 2 Text is: 'root'@'l
+The centre list is: t
+The centre list is: 116
+b'The value of \xce\xb2 is: 8'
+Pattern 3 Text is: ocalhost'
+The centre list is: h
+The centre list is: 104
+b'The value of \xce\xb2 is: 8'
+Pattern 4 Text is: IDENTIFIE
+The centre list is: T
+The centre list is: 84
+b'The value of \xce\xb2 is: 8'
+Pattern 1 Text is: ALTERUSER
+The centre list is: R
+The centre list is: 82
+b'The value of \xce\xb2 is: 8'
+Pattern 2 Text is: 'root'@'l
+The centre list is: t
+The centre list is: 116
+b'The value of \xce\xb2 is: 8'
+Pattern 3 Text is: ocalhost'
+The centre list is: h
+The centre list is: 104
+b'The value of \xce\xb2 is: 8'
+Pattern 4 Text is: IDENTIFIE
+The centre list is: T
+The centre list is: 84
+b'The value of \xce\xb2 is: 8'
+Pattern 1 Text is: ALTERUSER
+The centre list is: R
+The centre list is: 82
+b'The value of \xce\xb2 is: 8'
+Pattern 2 Text is: 'root'@'l
+The centre list is: t
+The centre list is: 116
+b'The value of \xce\xb2 is: 8'
+Pattern 3 Text is: ocalhost'
+The centre list is: h
+The centre list is: 104
+b'The value of \xce\xb2 is: 8'
+Pattern 4 Text is: IDENTIFIE
+The centre list is: T
+The centre list is: 84
+b'The value of \xce\xb2 is: 8'
+Pattern 1 Text is: ALTERUSER'r
+The centre list is: U
+The centre list is: 85
+b'The value of \xce\xb2 is: 6'
+Pattern 2 Text is: oot'@'local
+The centre list is: '
+The centre list is: 39
+b'The value of \xce\xb2 is: 6'
+Pattern 3 Text is: host'IDENTI
+The centre list is: I
+The centre list is: 73
+b'The value of \xce\xb2 is: 6'
+Pattern 1 Text is: ALTERUSER'r
+The centre list is: U
+The centre list is: 85
+b'The value of \xce\xb2 is: 6'
+Pattern 2 Text is: oot'@'local
+The centre list is: '
+The centre list is: 39
+b'The value of \xce\xb2 is: 6'
+Pattern 3 Text is: host'IDENTI
+The centre list is: I
+The centre list is: 73
+b'The value of \xce\xb2 is: 6'
+Pattern 1 Text is: ALTERUSER'r
+The centre list is: U
+The centre list is: 85
+b'The value of \xce\xb2 is: 6'
+Pattern 2 Text is: oot'@'local
+The centre list is: '
+The centre list is: 39
+b'The value of \xce\xb2 is: 6'
+Pattern 3 Text is: host'IDENTI
+The centre list is: I
+The centre list is: 73
+b'The value of \xce\xb2 is: 6'
+Pattern 1 Text is: ALTERUSER'roo
+The centre list is: S
+The centre list is: 83
+b'The value of \xce\xb2 is: 6'
+Pattern 2 Text is: t'@'localhost
+The centre list is: c
+The centre list is: 99
+b'The value of \xce\xb2 is: 6'
+Pattern 3 Text is: 'IDENTIFIEDBY
+The centre list is: I
+The centre list is: 73
+b'The value of \xce\xb2 is: 6'
+Pattern 1 Text is: ALTERUSER'roo
+The centre list is: S
+The centre list is: 83
+b'The value of \xce\xb2 is: 6'
+Pattern 2 Text is: t'@'localhost
+The centre list is: c
+The centre list is: 99
+b'The value of \xce\xb2 is: 6'
+Pattern 3 Text is: 'IDENTIFIEDBY
+The centre list is: I
+The centre list is: 73
+b'The value of \xce\xb2 is: 6'
+Pattern 1 Text is: ALTERUSER
+The centre list is: R
+The centre list is: 82
+b'The value of \xce\xb2 is: 8'
+Pattern 2 Text is: 'root'@'l
+The centre list is: t
+The centre list is: 116
+b'The value of \xce\xb2 is: 8'
+Pattern 3 Text is: ocalhost'
+The centre list is: h
+The centre list is: 104
+b'The value of \xce\xb2 is: 8'
+Pattern 4 Text is: IDENTIFIE
+The centre list is: T
+The centre list is: 84
+b'The value of \xce\xb2 is: 8'
+Pattern 1 Text is: ALTERUSER
+The centre list is: R
+The centre list is: 82
+b'The value of \xce\xb2 is: 8'
+Pattern 2 Text is: 'root'@'l
+The centre list is: t
+The centre list is: 116
+b'The value of \xce\xb2 is: 8'
+Pattern 3 Text is: ocalhost'
+The centre list is: h
+The centre list is: 104
+b'The value of \xce\xb2 is: 8'
+Pattern 4 Text is: IDENTIFIE
+The centre list is: T
+The centre list is: 84
+b'The value of \xce\xb2 is: 8'
+Pattern 1 Text is: ALTERUSER
+The centre list is: R
+The centre list is: 82
+b'The value of \xce\xb2 is: 8'
+Pattern 2 Text is: 'root'@'l
+The centre list is: t
+The centre list is: 116
+b'The value of \xce\xb2 is: 8'
+Pattern 3 Text is: ocalhost'
+The centre list is: h
+The centre list is: 104
+b'The value of \xce\xb2 is: 8'
+Pattern 4 Text is: IDENTIFIE
+The centre list is: T
+The centre list is: 84
+b'The value of \xce\xb2 is: 8'

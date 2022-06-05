@@ -1,0 +1,147 @@
+Pattern 1 Text is: ALTERUS
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 0
+Pattern 2 Text is: ER'root
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 56
+Pattern 3 Text is: '@'loca
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 59
+Pattern 4 Text is: lhost'I
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 19
+Pattern 5 Text is: DENTIFI
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 55
+Pattern 6 Text is: EDBY'';
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 63
+The upFeatures List is: [0, 56, 59, 19, 55, 63]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 146
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 142
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 1
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 239
+The upFeatures List is: [146, 142, 1, 239]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 146
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 142
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 1
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 239
+The upFeatures List is: [146, 142, 1, 239]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 146
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 142
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 1
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 239
+The upFeatures List is: [146, 142, 1, 239]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 842
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 0
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 32
+The upFeatures List is: [842, 0, 32]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 842
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 0
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 32
+The upFeatures List is: [842, 0, 32]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 842
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 0
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 32
+The upFeatures List is: [842, 0, 32]
+Pattern 1 Text is: ALTERUSER'roo
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 3368
+Pattern 2 Text is: t'@'localhost
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 1792
+Pattern 3 Text is: 'IDENTIFIEDBY
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 2050
+The upFeatures List is: [3368, 1792, 2050]
+Pattern 1 Text is: ALTERUSER'roo
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 3368
+Pattern 2 Text is: t'@'localhost
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 1792
+Pattern 3 Text is: 'IDENTIFIEDBY
+b'The value of \xce\xb2 is: 6'
+The upFeatures is: 2050
+The upFeatures List is: [3368, 1792, 2050]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 146
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 142
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 1
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 239
+The upFeatures List is: [146, 142, 1, 239]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 146
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 142
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 1
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 239
+The upFeatures List is: [146, 142, 1, 239]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 146
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 142
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 1
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The upFeatures is: 239
+The upFeatures List is: [146, 142, 1, 239]

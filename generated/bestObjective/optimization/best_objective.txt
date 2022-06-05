@@ -1,0 +1,4 @@
+Cycle: 0 with Temperature: 2.8036732520571284
+Cycle: 1 with Temperature: 0.14476482730108395
+b'Best solution with optimal value \xce\xb2 is: 8 and \xcf\x81 is: 6'
+Best objective(1D-TP): 132

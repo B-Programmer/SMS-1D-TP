@@ -1,0 +1,135 @@
+Pattern 1 Text is: ALTERUS
+b'The value of \xce\xb2 is: 8'
+The up list is: [0, 0, 0, 0, 0, 0]
+Pattern 2 Text is: ER'root
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 0, 0, 0]
+Pattern 3 Text is: '@'loca
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 0, 1, 1]
+Pattern 4 Text is: lhost'I
+b'The value of \xce\xb2 is: 8'
+The up list is: [0, 1, 0, 0, 1, 1]
+Pattern 5 Text is: DENTIFI
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 0, 1, 1, 1]
+Pattern 6 Text is: EDBY'';
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 1, 1, 1]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 1, 0, 0, 1, 0]
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 0, 1, 1, 1, 0]
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 1]
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 0, 1, 1, 1, 1]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 1, 0, 0, 1, 0]
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 0, 1, 1, 1, 0]
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 1]
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 0, 1, 1, 1, 1]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 1, 0, 0, 1, 0]
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 0, 1, 1, 1, 0]
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 1]
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 0, 1, 1, 1, 1]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The up list is: [1, 1, 0, 1, 0, 0, 1, 0, 1, 0]
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The up list is: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The up list is: [1, 1, 0, 1, 0, 0, 1, 0, 1, 0]
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The up list is: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The up list is: [1, 1, 0, 1, 0, 0, 1, 0, 1, 0]
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The up list is: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+Pattern 1 Text is: ALTERUSER'roo
+b'The value of \xce\xb2 is: 6'
+The up list is: [1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]
+Pattern 2 Text is: t'@'localhost
+b'The value of \xce\xb2 is: 6'
+The up list is: [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Pattern 3 Text is: 'IDENTIFIEDBY
+b'The value of \xce\xb2 is: 6'
+The up list is: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+Pattern 1 Text is: ALTERUSER'roo
+b'The value of \xce\xb2 is: 6'
+The up list is: [1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]
+Pattern 2 Text is: t'@'localhost
+b'The value of \xce\xb2 is: 6'
+The up list is: [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Pattern 3 Text is: 'IDENTIFIEDBY
+b'The value of \xce\xb2 is: 6'
+The up list is: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 1, 0, 0, 1, 0]
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 0, 1, 1, 1, 0]
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 1]
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 0, 1, 1, 1, 1]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 1, 0, 0, 1, 0]
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 0, 1, 1, 1, 0]
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 1]
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 0, 1, 1, 1, 1]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 1, 0, 0, 1, 0]
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 0, 0, 0, 1, 1, 1, 0]
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The up list is: [0, 0, 0, 0, 0, 0, 0, 1]
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The up list is: [1, 1, 1, 0, 1, 1, 1, 1]

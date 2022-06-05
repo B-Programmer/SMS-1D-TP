@@ -1,0 +1,13 @@
+The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 6 and value of \xcf\x81 is: 6'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 4 and value of \xcf\x81 is: 8'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 4 and value of \xcf\x81 is: 8'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 4 and value of \xcf\x81 is: 8'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 3 and value of \xcf\x81 is: 10'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 3 and value of \xcf\x81 is: 10'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 3 and value of \xcf\x81 is: 10'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 3 and value of \xcf\x81 is: 12'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 3 and value of \xcf\x81 is: 12'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 4 and value of \xcf\x81 is: 8'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 4 and value of \xcf\x81 is: 8'The given sms: ALTERUSER'root'@'localhost'IDENTIFIEDBY''; with length: 42
+b'The number of pattern is: 4 and value of \xcf\x81 is: 8'

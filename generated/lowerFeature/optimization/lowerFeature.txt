@@ -1,0 +1,147 @@
+Pattern 1 Text is: ALTERUS
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 15
+Pattern 2 Text is: ER'root
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 3 Text is: '@'loca
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 4 Text is: lhost'I
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 5 Text is: DENTIFI
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 6 Text is: EDBY'';
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+The lowFeatures List is: [15, 0, 0, 0, 0, 0]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 6
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+The lowFeatures List is: [0, 0, 6, 0]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 6
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+The lowFeatures List is: [0, 0, 6, 0]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 6
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+The lowFeatures List is: [0, 0, 6, 0]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 1
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 959
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 962
+The lowFeatures List is: [1, 959, 962]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 1
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 959
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 962
+The lowFeatures List is: [1, 959, 962]
+Pattern 1 Text is: ALTERUSER'r
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 1
+Pattern 2 Text is: oot'@'local
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 959
+Pattern 3 Text is: host'IDENTI
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 962
+The lowFeatures List is: [1, 959, 962]
+Pattern 1 Text is: ALTERUSER'roo
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 7
+Pattern 2 Text is: t'@'localhost
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 2263
+Pattern 3 Text is: 'IDENTIFIEDBY
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 65
+The lowFeatures List is: [7, 2263, 65]
+Pattern 1 Text is: ALTERUSER'roo
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 7
+Pattern 2 Text is: t'@'localhost
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 2263
+Pattern 3 Text is: 'IDENTIFIEDBY
+b'The value of \xce\xb2 is: 6'
+The lowFeatures is: 65
+The lowFeatures List is: [7, 2263, 65]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 6
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+The lowFeatures List is: [0, 0, 6, 0]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 6
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+The lowFeatures List is: [0, 0, 6, 0]
+Pattern 1 Text is: ALTERUSER
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 2 Text is: 'root'@'l
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+Pattern 3 Text is: ocalhost'
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 6
+Pattern 4 Text is: IDENTIFIE
+b'The value of \xce\xb2 is: 8'
+The lowFeatures is: 0
+The lowFeatures List is: [0, 0, 6, 0]

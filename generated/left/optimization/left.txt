@@ -1,0 +1,225 @@
+Pattern 1 Text is: ALTERUS
+The left list is: ALT
+The left list is: [65, 76, 84]
+b'The value of \xce\xb2 is: 8'
+The left list is: [0, 0, -1]
+Pattern 2 Text is: ER'root
+The left list is: ER'
+The left list is: [69, 82, 39]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1]
+Pattern 3 Text is: '@'loca
+The left list is: '@'
+The left list is: [39, 64, 39]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1]
+Pattern 4 Text is: lhost'I
+The left list is: lho
+The left list is: [108, 104, 111]
+b'The value of \xce\xb2 is: 8'
+The left list is: [0, 1, 0]
+Pattern 5 Text is: DENTIFI
+The left list is: DEN
+The left list is: [68, 69, 78]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 0]
+Pattern 6 Text is: EDBY'';
+The left list is: EDB
+The left list is: [69, 68, 66]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1]
+Pattern 1 Text is: ALTERUSER
+The left list is: ALTE
+The left list is: [65, 76, 84, 69]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 1]
+Pattern 2 Text is: 'root'@'l
+The left list is: 'roo
+The left list is: [39, 114, 111, 111]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 0]
+Pattern 3 Text is: ocalhost'
+The left list is: ocal
+The left list is: [111, 99, 97, 108]
+b'The value of \xce\xb2 is: 8'
+The left list is: [0, 0, 0, 0]
+Pattern 4 Text is: IDENTIFIE
+The left list is: IDEN
+The left list is: [73, 68, 69, 78]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1, 0]
+Pattern 1 Text is: ALTERUSER
+The left list is: ALTE
+The left list is: [65, 76, 84, 69]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 1]
+Pattern 2 Text is: 'root'@'l
+The left list is: 'roo
+The left list is: [39, 114, 111, 111]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 0]
+Pattern 3 Text is: ocalhost'
+The left list is: ocal
+The left list is: [111, 99, 97, 108]
+b'The value of \xce\xb2 is: 8'
+The left list is: [0, 0, 0, 0]
+Pattern 4 Text is: IDENTIFIE
+The left list is: IDEN
+The left list is: [73, 68, 69, 78]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1, 0]
+Pattern 1 Text is: ALTERUSER
+The left list is: ALTE
+The left list is: [65, 76, 84, 69]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 1]
+Pattern 2 Text is: 'root'@'l
+The left list is: 'roo
+The left list is: [39, 114, 111, 111]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 0]
+Pattern 3 Text is: ocalhost'
+The left list is: ocal
+The left list is: [111, 99, 97, 108]
+b'The value of \xce\xb2 is: 8'
+The left list is: [0, 0, 0, 0]
+Pattern 4 Text is: IDENTIFIE
+The left list is: IDEN
+The left list is: [73, 68, 69, 78]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1, 0]
+Pattern 1 Text is: ALTERUSER'r
+The left list is: ALTER
+The left list is: [65, 76, 84, 69, 82]
+b'The value of \xce\xb2 is: 6'
+The left list is: [1, 1, 0, 1, 0]
+Pattern 2 Text is: oot'@'local
+The left list is: oot'@
+The left list is: [111, 111, 116, 39, 64]
+b'The value of \xce\xb2 is: 6'
+The left list is: [-1, -1, -1, 0, -1]
+Pattern 3 Text is: host'IDENTI
+The left list is: host'
+The left list is: [104, 111, 115, 116, 39]
+b'The value of \xce\xb2 is: 6'
+The left list is: [-1, -1, -1, -1, 1]
+Pattern 1 Text is: ALTERUSER'r
+The left list is: ALTER
+The left list is: [65, 76, 84, 69, 82]
+b'The value of \xce\xb2 is: 6'
+The left list is: [1, 1, 0, 1, 0]
+Pattern 2 Text is: oot'@'local
+The left list is: oot'@
+The left list is: [111, 111, 116, 39, 64]
+b'The value of \xce\xb2 is: 6'
+The left list is: [-1, -1, -1, 0, -1]
+Pattern 3 Text is: host'IDENTI
+The left list is: host'
+The left list is: [104, 111, 115, 116, 39]
+b'The value of \xce\xb2 is: 6'
+The left list is: [-1, -1, -1, -1, 1]
+Pattern 1 Text is: ALTERUSER'r
+The left list is: ALTER
+The left list is: [65, 76, 84, 69, 82]
+b'The value of \xce\xb2 is: 6'
+The left list is: [1, 1, 0, 1, 0]
+Pattern 2 Text is: oot'@'local
+The left list is: oot'@
+The left list is: [111, 111, 116, 39, 64]
+b'The value of \xce\xb2 is: 6'
+The left list is: [-1, -1, -1, 0, -1]
+Pattern 3 Text is: host'IDENTI
+The left list is: host'
+The left list is: [104, 111, 115, 116, 39]
+b'The value of \xce\xb2 is: 6'
+The left list is: [-1, -1, -1, -1, 1]
+Pattern 1 Text is: ALTERUSER'roo
+The left list is: ALTERU
+The left list is: [65, 76, 84, 69, 82, 85]
+b'The value of \xce\xb2 is: 6'
+The left list is: [1, 1, 0, 1, 0, 0]
+Pattern 2 Text is: t'@'localhost
+The left list is: t'@'lo
+The left list is: [116, 39, 64, 39, 108, 111]
+b'The value of \xce\xb2 is: 6'
+The left list is: [-1, 1, 1, 1, -1, -1]
+Pattern 3 Text is: 'IDENTIFIEDBY
+The left list is: 'IDENT
+The left list is: [39, 73, 68, 69, 78, 84]
+b'The value of \xce\xb2 is: 6'
+The left list is: [1, 0, 0, 0, 0, -1]
+Pattern 1 Text is: ALTERUSER'roo
+The left list is: ALTERU
+The left list is: [65, 76, 84, 69, 82, 85]
+b'The value of \xce\xb2 is: 6'
+The left list is: [1, 1, 0, 1, 0, 0]
+Pattern 2 Text is: t'@'localhost
+The left list is: t'@'lo
+The left list is: [116, 39, 64, 39, 108, 111]
+b'The value of \xce\xb2 is: 6'
+The left list is: [-1, 1, 1, 1, -1, -1]
+Pattern 3 Text is: 'IDENTIFIEDBY
+The left list is: 'IDENT
+The left list is: [39, 73, 68, 69, 78, 84]
+b'The value of \xce\xb2 is: 6'
+The left list is: [1, 0, 0, 0, 0, -1]
+Pattern 1 Text is: ALTERUSER
+The left list is: ALTE
+The left list is: [65, 76, 84, 69]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 1]
+Pattern 2 Text is: 'root'@'l
+The left list is: 'roo
+The left list is: [39, 114, 111, 111]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 0]
+Pattern 3 Text is: ocalhost'
+The left list is: ocal
+The left list is: [111, 99, 97, 108]
+b'The value of \xce\xb2 is: 8'
+The left list is: [0, 0, 0, 0]
+Pattern 4 Text is: IDENTIFIE
+The left list is: IDEN
+The left list is: [73, 68, 69, 78]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1, 0]
+Pattern 1 Text is: ALTERUSER
+The left list is: ALTE
+The left list is: [65, 76, 84, 69]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 1]
+Pattern 2 Text is: 'root'@'l
+The left list is: 'roo
+The left list is: [39, 114, 111, 111]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 0]
+Pattern 3 Text is: ocalhost'
+The left list is: ocal
+The left list is: [111, 99, 97, 108]
+b'The value of \xce\xb2 is: 8'
+The left list is: [0, 0, 0, 0]
+Pattern 4 Text is: IDENTIFIE
+The left list is: IDEN
+The left list is: [73, 68, 69, 78]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1, 0]
+Pattern 1 Text is: ALTERUSER
+The left list is: ALTE
+The left list is: [65, 76, 84, 69]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 1]
+Pattern 2 Text is: 'root'@'l
+The left list is: 'roo
+The left list is: [39, 114, 111, 111]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 0, 0, 0]
+Pattern 3 Text is: ocalhost'
+The left list is: ocal
+The left list is: [111, 99, 97, 108]
+b'The value of \xce\xb2 is: 8'
+The left list is: [0, 0, 0, 0]
+Pattern 4 Text is: IDENTIFIE
+The left list is: IDEN
+The left list is: [73, 68, 69, 78]
+b'The value of \xce\xb2 is: 8'
+The left list is: [1, 1, 1, 0]
